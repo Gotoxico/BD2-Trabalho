@@ -11,6 +11,7 @@ python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 pip install -r requirements.txt
+```
 
 - Rode VideoResizeAndFrameExtractionPrincipal, lembrando sempre de alterar os paths de configuração
 
