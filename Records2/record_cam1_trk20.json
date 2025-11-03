@@ -1,0 +1,62 @@
+{
+  "track_id": 20,
+  "timestamp_start": "2025-10-10T20:33:21.337507",
+  "timestamp_end": "2025-10-10T20:33:22.287507",
+  "first_crop_path": "/home/gotoxico/BD2-Trabalho/projetoBD2/CroppedPersons2/cam1_trk20_VIRAT_S_000102_frame_000804_20251010T203321.337507_first.jpg",
+  "last_crop_path": "/home/gotoxico/BD2-Trabalho/projetoBD2/CroppedPersons2/cam1_trk20_VIRAT_S_000102_frame_000999_20251010T203322.287507_last.jpg",
+  "description": "the man is wearing a blue shirt",
+  "attributes": {
+    "hair": [
+      {
+        "label": "gray hair",
+        "score": 0.3889477550983429
+      },
+      {
+        "label": "black hair",
+        "score": 0.1879540979862213
+      }
+    ],
+    "clothing_items": [
+      {
+        "label": "pants",
+        "score": 0.7885611653327942
+      },
+      {
+        "label": "skirt",
+        "score": 0.06287158280611038
+      }
+    ],
+    "clothing_colors": [
+      {
+        "label": "blue shirt",
+        "score": 0.2612699866294861
+      },
+      {
+        "label": "plaid shirt",
+        "score": 0.17819750308990479
+      }
+    ],
+    "accessories": [
+      {
+        "label": "holding a bag",
+        "score": 0.5879858136177063
+      },
+      {
+        "label": "backpack",
+        "score": 0.3439071476459503
+      }
+    ]
+  },
+  "bbox_start": {
+    "x1": 291,
+    "y1": 210,
+    "x2": 322,
+    "y2": 327
+  },
+  "bbox_end": {
+    "x1": 289,
+    "y1": 220,
+    "x2": 319,
+    "y2": 332
+  }
+}

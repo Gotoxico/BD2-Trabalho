@@ -1,0 +1,62 @@
+{
+  "track_id": 18,
+  "timestamp_start": "2025-10-10T20:33:20.927508",
+  "timestamp_end": "2025-10-10T20:33:20.937508",
+  "first_crop_path": "/home/gotoxico/BD2-Trabalho/projetoBD2/CroppedPersons2/cam1_trk18_VIRAT_S_000102_frame_000717_20251010T203320.927508_first.jpg",
+  "last_crop_path": "/home/gotoxico/BD2-Trabalho/projetoBD2/CroppedPersons2/cam1_trk18_VIRAT_S_000102_frame_000719_20251010T203320.937508_last.jpg",
+  "description": "a group of people walking down a street",
+  "attributes": {
+    "hair": [
+      {
+        "label": "blond hair",
+        "score": 0.27818524837493896
+      },
+      {
+        "label": "gray hair",
+        "score": 0.18808385729789734
+      }
+    ],
+    "clothing_items": [
+      {
+        "label": "pants",
+        "score": 0.7397505044937134
+      },
+      {
+        "label": "skirt",
+        "score": 0.07673778384923935
+      }
+    ],
+    "clothing_colors": [
+      {
+        "label": "green shirt",
+        "score": 0.17893850803375244
+      },
+      {
+        "label": "plaid shirt",
+        "score": 0.1524261087179184
+      }
+    ],
+    "accessories": [
+      {
+        "label": "holding a bag",
+        "score": 0.5198947191238403
+      },
+      {
+        "label": "backpack",
+        "score": 0.4188089668750763
+      }
+    ]
+  },
+  "bbox_start": {
+    "x1": 242,
+    "y1": 223,
+    "x2": 276,
+    "y2": 309
+  },
+  "bbox_end": {
+    "x1": 241,
+    "y1": 222,
+    "x2": 276,
+    "y2": 309
+  }
+}

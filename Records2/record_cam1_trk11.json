@@ -1,0 +1,62 @@
+{
+  "track_id": 11,
+  "timestamp_start": "2025-10-10T20:33:18.777508",
+  "timestamp_end": "2025-10-10T20:33:18.787508",
+  "first_crop_path": "/home/gotoxico/BD2-Trabalho/projetoBD2/CroppedPersons2/cam1_trk11_VIRAT_S_000102_frame_000265_20251010T203318.777508_first.jpg",
+  "last_crop_path": "/home/gotoxico/BD2-Trabalho/projetoBD2/CroppedPersons2/cam1_trk11_VIRAT_S_000102_frame_000267_20251010T203318.787508_last.jpg",
+  "description": "a black and white dog standing on top of a green field",
+  "attributes": {
+    "hair": [
+      {
+        "label": "gray hair",
+        "score": 0.458566278219223
+      },
+      {
+        "label": "black hair",
+        "score": 0.21809759736061096
+      }
+    ],
+    "clothing_items": [
+      {
+        "label": "pants",
+        "score": 0.3007015287876129
+      },
+      {
+        "label": "coat",
+        "score": 0.1852388232946396
+      }
+    ],
+    "clothing_colors": [
+      {
+        "label": "black jacket",
+        "score": 0.26839888095855713
+      },
+      {
+        "label": "black shirt",
+        "score": 0.17861869931221008
+      }
+    ],
+    "accessories": [
+      {
+        "label": "backpack",
+        "score": 0.46141764521598816
+      },
+      {
+        "label": "wearing sunglasses",
+        "score": 0.276528537273407
+      }
+    ]
+  },
+  "bbox_start": {
+    "x1": 543,
+    "y1": 99,
+    "x2": 561,
+    "y2": 150
+  },
+  "bbox_end": {
+    "x1": 544,
+    "y1": 100,
+    "x2": 562,
+    "y2": 151
+  }
+}

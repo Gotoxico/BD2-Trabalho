@@ -1,0 +1,62 @@
+{
+  "track_id": 12,
+  "timestamp_start": "2025-10-10T20:33:18.807508",
+  "timestamp_end": "2025-10-10T20:33:18.857508",
+  "first_crop_path": "/home/gotoxico/BD2-Trabalho/projetoBD2/CroppedPersons2/cam1_trk12_VIRAT_S_000102_frame_000270_20251010T203318.807508_first.jpg",
+  "last_crop_path": "/home/gotoxico/BD2-Trabalho/projetoBD2/CroppedPersons2/cam1_trk12_VIRAT_S_000102_frame_000281_20251010T203318.857508_last.jpg",
+  "description": "two men are walking down the street together",
+  "attributes": {
+    "hair": [
+      {
+        "label": "brown hair",
+        "score": 0.25408935546875
+      },
+      {
+        "label": "black hair",
+        "score": 0.224040687084198
+      }
+    ],
+    "clothing_items": [
+      {
+        "label": "pants",
+        "score": 0.7888901829719543
+      },
+      {
+        "label": "hoodie",
+        "score": 0.0544007271528244
+      }
+    ],
+    "clothing_colors": [
+      {
+        "label": "plaid shirt",
+        "score": 0.21345549821853638
+      },
+      {
+        "label": "blue shirt",
+        "score": 0.16522428393363953
+      }
+    ],
+    "accessories": [
+      {
+        "label": "holding a bag",
+        "score": 0.494708389043808
+      },
+      {
+        "label": "backpack",
+        "score": 0.40141111612319946
+      }
+    ]
+  },
+  "bbox_start": {
+    "x1": 243,
+    "y1": 224,
+    "x2": 276,
+    "y2": 306
+  },
+  "bbox_end": {
+    "x1": 244,
+    "y1": 223,
+    "x2": 276,
+    "y2": 307
+  }
+}

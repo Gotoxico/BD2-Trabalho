@@ -1,0 +1,62 @@
+{
+  "track_id": 6,
+  "timestamp_start": "2025-10-10T20:33:17.817508",
+  "timestamp_end": "2025-10-10T20:33:18.237508",
+  "first_crop_path": "/home/gotoxico/BD2-Trabalho/projetoBD2/CroppedPersons2/cam1_trk6_VIRAT_S_000102_frame_000084_20251010T203317.817508_first.jpg",
+  "last_crop_path": "/home/gotoxico/BD2-Trabalho/projetoBD2/CroppedPersons2/cam1_trk6_VIRAT_S_000102_frame_000165_20251010T203318.237508_last.jpg",
+  "description": "a group of people standing on a sidewalk",
+  "attributes": {
+    "hair": [
+      {
+        "label": "black hair",
+        "score": 0.2519444525241852
+      },
+      {
+        "label": "blond hair",
+        "score": 0.21152131259441376
+      }
+    ],
+    "clothing_items": [
+      {
+        "label": "pants",
+        "score": 0.5916768312454224
+      },
+      {
+        "label": "skirt",
+        "score": 0.11332721263170242
+      }
+    ],
+    "clothing_colors": [
+      {
+        "label": "blue jacket",
+        "score": 0.23323415219783783
+      },
+      {
+        "label": "green shirt",
+        "score": 0.13450856506824493
+      }
+    ],
+    "accessories": [
+      {
+        "label": "holding a bag",
+        "score": 0.4872990846633911
+      },
+      {
+        "label": "backpack",
+        "score": 0.38959211111068726
+      }
+    ]
+  },
+  "bbox_start": {
+    "x1": 245,
+    "y1": 227,
+    "x2": 277,
+    "y2": 308
+  },
+  "bbox_end": {
+    "x1": 246,
+    "y1": 229,
+    "x2": 272,
+    "y2": 309
+  }
+}

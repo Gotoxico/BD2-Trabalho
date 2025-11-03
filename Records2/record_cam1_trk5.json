@@ -1,0 +1,62 @@
+{
+  "track_id": 5,
+  "timestamp_start": "2025-10-10T20:33:17.387508",
+  "timestamp_end": "2025-10-10T20:33:17.507509",
+  "first_crop_path": "/home/gotoxico/BD2-Trabalho/projetoBD2/CroppedPersons2/cam1_trk5_VIRAT_S_000102_frame_000000_20251010T203317.387508_first.jpg",
+  "last_crop_path": "/home/gotoxico/BD2-Trabalho/projetoBD2/CroppedPersons2/cam1_trk5_VIRAT_S_000102_frame_000025_20251010T203317.507509_last.jpg",
+  "description": "a man and a woman dancing on a dance floor",
+  "attributes": {
+    "hair": [
+      {
+        "label": "gray hair",
+        "score": 0.3159967362880707
+      },
+      {
+        "label": "brown hair",
+        "score": 0.19636856019496918
+      }
+    ],
+    "clothing_items": [
+      {
+        "label": "pants",
+        "score": 0.3662094175815582
+      },
+      {
+        "label": "hoodie",
+        "score": 0.2107682079076767
+      }
+    ],
+    "clothing_colors": [
+      {
+        "label": "green jacket",
+        "score": 0.22329792380332947
+      },
+      {
+        "label": "blue jacket",
+        "score": 0.1906379759311676
+      }
+    ],
+    "accessories": [
+      {
+        "label": "holding a bag",
+        "score": 0.6482486128807068
+      },
+      {
+        "label": "backpack",
+        "score": 0.2937341332435608
+      }
+    ]
+  },
+  "bbox_start": {
+    "x1": 240,
+    "y1": 225,
+    "x2": 275,
+    "y2": 306
+  },
+  "bbox_end": {
+    "x1": 244,
+    "y1": 223,
+    "x2": 277,
+    "y2": 306
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "track_id": 1,
+  "timestamp_start": "2025-10-10T20:33:17.387508",
+  "timestamp_end": "2025-10-10T20:33:22.287507",
+  "first_crop_path": "/home/gotoxico/BD2-Trabalho/projetoBD2/CroppedPersons2/cam1_trk1_VIRAT_S_000102_frame_000000_20251010T203317.387508_first.jpg",
+  "last_crop_path": "/home/gotoxico/BD2-Trabalho/projetoBD2/CroppedPersons2/cam1_trk1_VIRAT_S_000102_frame_000999_20251010T203322.287507_last.jpg",
+  "description": "a man in a blue shirt is walking down the street",
+  "attributes": {
+    "hair": [
+      {
+        "label": "brown hair",
+        "score": 0.2737257182598114
+      },
+      {
+        "label": "blond hair",
+        "score": 0.19428691267967224
+      }
+    ],
+    "clothing_items": [
+      {
+        "label": "pants",
+        "score": 0.4417570233345032
+      },
+      {
+        "label": "skirt",
+        "score": 0.18822522461414337
+      }
+    ],
+    "clothing_colors": [
+      {
+        "label": "blue jacket",
+        "score": 0.3587550222873688
+      },
+      {
+        "label": "green jacket",
+        "score": 0.17182977497577667
+      }
+    ],
+    "accessories": [
+      {
+        "label": "holding a bag",
+        "score": 0.5589671730995178
+      },
+      {
+        "label": "backpack",
+        "score": 0.4115901291370392
+      }
+    ]
+  },
+  "bbox_start": {
+    "x1": 288,
+    "y1": 220,
+    "x2": 314,
+    "y2": 299
+  },
+  "bbox_end": {
+    "x1": 290,
+    "y1": 219,
+    "x2": 314,
+    "y2": 301
+  }
+}
